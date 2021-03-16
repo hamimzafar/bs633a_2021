@@ -1,18 +1,24 @@
 ## BSE633: Bioinformatics and Computational Biology
 
-```markdown
 |Semester | 2020-2021 II |
 | --- | --- |
-|Instructor | Dr. Hamim Zafar |
-|Time | TW 12:00 - 1:15 PM |
-|Location | Zoom () |
-```
+|**Instructor** | Dr. Hamim Zafar |
+|**Time** | TW 12:00 - 1:15 PM |
+|**Location** | Zoom () |
+|**Piazza** | [link]() |
 
-|Semester | 2020-2021 II |
-| --- | --- |
-|Instructor | Dr. Hamim Zafar |
-|Time | TW 12:00 - 1:15 PM |
-|Location | Zoom () |
+## Course Description
+This course introduces fundamental problems and computational methods in Bioinformatics and Computational Biology. I am teaching the second part of this course and the covered topics include:
+1. Motif detection
+2. Sequence modeling using Hidden Markov Model (HMM)
+3. Phylogenetics
+4. Comparative genomics
+
+### Textbooks
+- "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids", by Durbin et al., Cambridge University Press.
+- "Understanding Bioinformatics", by M. Zvelebil and J.O. Baum. Published by Garland Science, 2008.
+- "Bioinformatics algorithms: an active learning approach", by Phillip Compeau and Pavel Pevzner. Published by Active Learning Pub.
+- "Inferring Phylogenies", by Felsenstein. 
 
 You can use the [editor on GitHub](https://github.com/hamimzafar/bs633a_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
