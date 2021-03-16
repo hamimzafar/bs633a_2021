@@ -28,8 +28,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 |Date | Slides | Reading |
 | --- | --- | --- |
-| | [Slides](https://drive.google.com/file/d/1-ehDL_cBoWj2XWjoX7pfT1SaT7y7opvm/view?usp=sharing) | 1. D'haeseleer, Patrik. "What are DNA Sequence Motifs?" Nature Biotechnology 24, no. 4 (2006): 423–25. 
-2. D'haeseleer, Patrik. "How does DNA Sequence Motif Discovery Work?" Nature Biotechnology 24, no. 8 (2006): 959–61. |
+| | [Slides](https://drive.google.com/file/d/1-ehDL_cBoWj2XWjoX7pfT1SaT7y7opvm/view?usp=sharing) | 1. D'haeseleer, Patrik. "What are DNA Sequence Motifs?" Nature Biotechnology 24, no. 4 (2006): 423–25. |
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
