@@ -1,10 +1,11 @@
 ## BSE633: Bioinformatics and Computational Biology
 
 ```markdown
-Semester: 2020-2021 II
-Instructor: Dr. Hamim Zafar
-Time: TW 12:00 - 1:15 PM
-Location: Zoom ()
+|Semester | 2020-2021 II |
+| --- | --- |
+|Instructor | Dr. Hamim Zafar |
+|Time | TW 12:00 - 1:15 PM |
+|Location | Zoom () |
 ```
 You can use the [editor on GitHub](https://github.com/hamimzafar/bs633a_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
